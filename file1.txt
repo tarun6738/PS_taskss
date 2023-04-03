@@ -1,0 +1,5 @@
+Welcome to PS
+CyberSecurity Session
+64 bytes from maa03s47-in-f14.1e100.net (142.250.196.174): icmp_seq=57 ttl=128 time=127 ms
+
+142.250.196.174
