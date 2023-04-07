@@ -1,0 +1,37 @@
+for www.kmit.in
+
+IP Address:
+206.54.190.30
+
+Open Ports:
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+465/tcp  open  smtps
+554/tcp  open  rtsp
+587/tcp  open  submission
+993/tcp  open  imaps
+995/tcp  open  pop3s
+1723/tcp open  pptp
+
+OS:
+Aggressive OS guesses: DD-WRT v24-sp2 (Linux 2.4.37) (95%), Actiontec MI424WR-GEN3I WAP (94%), Linux 3.2 (94%), Linux 4.4 (94%), Microsoft Windows XP SP3 or Windows 7 or Windows Server 2012 (91%), Microsoft Windows XP SP3 (91%), BlueArc Titan 2100 NAS device (87%), VMware Player virtual NAT device (85%)
+
+Version:
+PORT     STATE SERVICE   VERSION
+21/tcp   open  ftp       Pure-FTPd
+22/tcp   open  ssh       OpenSSH 8.0 (protocol 2.0)
+80/tcp   open  http      LiteSpeed
+110/tcp  open  pop3      Dovecot pop3d
+143/tcp  open  imap      Dovecot imapd
+443/tcp  open  ssl/https LiteSpeed
+465/tcp  open  ssl/smtp  Exim smtpd 4.96
+554/tcp  open  rtsp?
+587/tcp  open  smtp      Exim smtpd 4.96
+993/tcp  open  imaps?
+995/tcp  open  pop3s?
+1723/tcp open  pptp?
